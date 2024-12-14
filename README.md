@@ -1,6 +1,6 @@
 # 📝 Guia de Perguntas e Respostas
 
-Bem-vindo ao projeto de aplicação web de perguntas e respostas! Aqui, os usuários podem criar perguntas, visualizar perguntas anteriores e adicionar respostas às perguntas existentes. Esta aplicação foi desenvolvida utilizando as seguintes tecnologias:
+Aplicação simples de perguntas e respostas anônimas para testar as funcionalidades mais básicas do nodejs.
 
 ## 🚀 Funcionalidades
 
@@ -21,7 +21,7 @@ Bem-vindo ao projeto de aplicação web de perguntas e respostas! Aqui, os usuá
 
 Certifique-se de ter o **Node.js** e o **NPM (Node Package Manager)** instalados em sua máquina. Caso não tenha, faça o download e instale o Node.js a partir do [site oficial](https://nodejs.org/).
 
-Em seguida, instale as dependências do projetoe rode no terminal
+Em seguida, instale as dependências do projeto e rode no terminal
 
 ```bash
 npm install
