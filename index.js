@@ -21,7 +21,7 @@ app.set('view engine', 'ejs');
 app.use(express.static('public')); //Definindo que a aplicação usará arquivos estaticos
 
 app.listen(3000, function(req,res){
-    console.log("rodando");
+    console.log("rodando na porta 3000");
 })
 
 app.get("/", (req, res) => {
